@@ -55,3 +55,9 @@ In welke fases zit de sprint planning? De briefing en debriefing? En een breakdo
 **Log:**
 
 We zijn begonnen met het in kaart brengen van de verschillende workshops in de fases van de DLC. Daar hebben de eerstejaars vervolgens een roadmap van gemaakt.
+Vervolgens hebben we gereflecteerd op een aantal indicatoren en hebben de eerstejaars dat ingevuld in portflow.
+
+Ik heb heb Kim feedback gegeven in portflow over samenwerken.
+
+<img width=300 src="https://github.com/user-attachments/assets/feb77188-db55-4c1a-abb4-55389988eaa8">
+
