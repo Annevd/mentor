@@ -1,6 +1,7 @@
 # Mentorlog
 
 - [2/10: Typografie & Leesbaarheid](#2-10-2024)
+- [11/10: Retrospect](#11-10-2024)
 
 ## 2-10-2024
 
@@ -32,3 +33,25 @@ Tot slot hebben we samen een checkout gedaan:
 - Beschrijf wat je vandaag hebt geleerd. 
 - Schrijf op welke CSS feature over typografie je gaat onderzoeken (Em, Vi, Clamp? Iets anders?)
 - Schrijf op wat je nu gaat doen voor de opdracht.
+
+
+## 11-10-2024
+
+### Retrospect
+
+**Opdracht:** Breng in kaart wat je de afgelopen 3 weken heb gedaan tijdens het werken voor de opdrachtgever.
+Schrijf op het whiteboard de 5 fases van de DLC en schrijf per fase de aangeboden workshops, principes en standaarden van sprint 2.
+
+In welke fases van de DLC passen de workshops?
+In welke fases zit de sprint planning? De briefing en debriefing? En een breakdownschets?
+
+1. Bekijk aan de hand van je _learning log_ wat je deze sprint heb gedaan.
+   Visualiseer elke stap afzonderlijk op een post-it; bedenk in welke fase van de DLC een stap hoort en gebruik voor elke fase een andere kleur post-it
+
+   Maak bij elke stap een tekening en gebruik één of twee steekwoorden. Door het tekenen ben je gedwongen om jouw stappen te concretiseren en blijf je niet te algemeen.
+2. Leg de post-its op volgorde op een tijdlijn
+3. Bespreek je roadmap met je tafel. Waar zien jullie patronen? Waar zijn verbeterstappen mogelijk?
+
+**Log:**
+
+We zijn begonnen met het in kaart brengen van de verschillende workshops in de fases van de DLC. Daar hebben de eerstejaars vervolgens een roadmap van gemaakt.
