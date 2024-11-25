@@ -44,3 +44,19 @@ Ik ben bij de eerste jaars geweest om te begeleiden bij de opdrachten en vragen 
 
 - **Gestalt principes:** closure, proximity, continuity, similarity, connectiveness.
 - **Grouping:** Visuele groepen van elementen die bij elkaar horen, ze onderscheiden zich van de rest.
+
+**Opdracht:**
+- Bekijk eerst Law of Common Region van de website Laws of UX. Lees daarna het artikel The Principle of Common Region: Containers Create Groupings. Maak schetsen en aantekeningen bij het artikel. Maak daarna voorbeelden in Figma waarbij je de wet goed en fout toepast.
+
+**Uitwerking:**
+
+**The law of common region:**
+1. Common region zorgt voor een duidelijke structuur en helpt gebruikers snel en effectief inzicht te krijgen in de relatie tussen elementen en secties.
+2. Door een rand rond een element of groep elementen toe te voegen, zorg je makkelijk voor een common region.
+3. Je kunt ook een common region creëren door een achtergrond achter een element of groep elementen te zetten.
+
+**Uitkijk punten:**
+1. Full-width content blocks met contrasterende borders en achtergrondkleuren kan gebruikers laten stoppen met scrollen op een pagina, omdat de nieuwe kleur een stop-punt creëert.
+2. Borders waar het niet nodig is kan zorgen voor een chaotisch design. Als er bijvoorbeeld genoeg witruimte en tekstonderscheiding is, is een border of achtergrondkleur niet altijd nodig.
+
+[Mijn Figma voorbeeld](https://www.figma.com/design/98xGoUoHGEwVM5GKhohwgp/Law-of-common-region?node-id=0-1&t=VCMLDMA8GLRnuBPp-1)
