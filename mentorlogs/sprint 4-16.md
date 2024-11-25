@@ -2,6 +2,7 @@
 
 - [11/11: Workshop Styleguide](#11-11-2024)
 - [18/11: Workshop Typografie en EM](#18-11-2024)
+- [25-11: Workshop Layout en compositie](#25-11-2024)
 
 ## 11-11-2024
 
@@ -34,3 +35,12 @@ Ik heb eerst samen met team Bieb in Bloei een sitemap op het whiteboard gemaakt.
 **Log:**
 
 Ik ben bij de eerste jaars geweest om te begeleiden bij de opdrachten en vragen te beantwoorden. Ik heb geholpen met wat bugs op te lossen en tips te geven.
+
+
+## 18-11-2024
+### Workshop layout en compositie over gestalt principes toepassen in je ontwerp
+
+**Info:**
+
+- **Gestalt principes:** closure, proximity, continuity, similarity, connectiveness.
+- **Grouping:** Visuele groepen van elementen die bij elkaar horen, ze onderscheiden zich van de rest.
