@@ -2,7 +2,7 @@
 
 - [11/11: Workshop Styleguide](#11-11-2024)
 - [18/11: Workshop Typografie en EM](#18-11-2024)
-- [25-11: Workshop Layout en compositie](#25-11-2024)
+- [25/11: Workshop Layout en compositie](#25-11-2024)
 
 ## 11-11-2024
 
