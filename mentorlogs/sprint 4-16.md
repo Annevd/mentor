@@ -62,3 +62,5 @@ Ik heb meegedaan met de workshop layout en compositie. Mijn taak was om de law o
 2. Borders waar het niet nodig is kan zorgen voor een chaotisch design. Als er bijvoorbeeld genoeg witruimte en tekstonderscheiding is, is een border of achtergrondkleur niet altijd nodig.
 
 [Mijn Figma voorbeeld](https://www.figma.com/design/98xGoUoHGEwVM5GKhohwgp/Law-of-common-region?node-id=0-1&t=VCMLDMA8GLRnuBPp-1)
+
+Vervolgens hebben wij dit aan elkaar gepresenteerd.
