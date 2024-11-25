@@ -63,4 +63,4 @@ Ik heb meegedaan met de workshop layout en compositie. Mijn taak was om de law o
 
 [Mijn Figma voorbeeld](https://www.figma.com/design/98xGoUoHGEwVM5GKhohwgp/Law-of-common-region?node-id=0-1&t=VCMLDMA8GLRnuBPp-1)
 
-Vervolgens hebben wij dit aan elkaar gepresenteerd.
+Vervolgens hebben wij dit aan elkaar gepresenteerd en heb ik vragen beantwoord.
