@@ -48,7 +48,9 @@ Ik ben bij de eerste jaars geweest om te begeleiden bij de opdrachten en vragen 
 **Opdracht:**
 - Bekijk eerst Law of Common Region van de website Laws of UX. Lees daarna het artikel The Principle of Common Region: Containers Create Groupings. Maak schetsen en aantekeningen bij het artikel. Maak daarna voorbeelden in Figma waarbij je de wet goed en fout toepast.
 
-**Uitwerking:**
+**Log:**
+
+Ik heb meegedaan met de workshop layout en compositie. Mijn taak was om de law of common region te onderzoeken en uit te werken tot echte voorbeelden. Dit heb ik hieronder en in figma uitgewerkt: 
 
 **The law of common region:**
 1. Common region zorgt voor een duidelijke structuur en helpt gebruikers snel en effectief inzicht te krijgen in de relatie tussen elementen en secties.
